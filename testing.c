@@ -1,4 +1,4 @@
-#incldue <stdio.h>
+#include <stdio.h>
 
 int main(){
 	printf("Testing with this text\n");
